@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://gph.is/st/ENo1aVM" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
 
 ### 🎧 &nbsp; Spotify Now Playing
 
@@ -22,7 +22,7 @@
 
 ---
 
-<img alt="Brain" src="https://gph.is/g/Z51NjLB" align="right"/>
+<img alt="Brain" src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp; Tech & Tools
 
