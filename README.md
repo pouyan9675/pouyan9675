@@ -10,7 +10,7 @@
 📕 &nbsp; My research mainly involves Natural Language Processing and BioMedical.\
 📸 &nbsp; In my free timem, I pursue Photography especially night and urban photography.\
 💬 &nbsp; I enjoy discussing about science and fun things. Feel free to contact me.\
-💪🏻 &nbsp; Constant Goal: Never stop learning and always eager to experience new things!\
+💪🏻 &nbsp; Current Goal: Never stop learning and always eager to experience new things!\
 
 ---
 
@@ -73,3 +73,6 @@
 <a href="https://instagram.com/pouyan.na"><img src="https://img.shields.io/badge/-@pouyan.na-8a3ab9?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/pouyan.nahed/"><img src="https://img.shields.io/badge/-@pouyan.nahed-3b5998?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+### Reference
+I used <a href="https://github.com/AVS1508">Aditya</a> and <a href="https://github.com/Bgstatic">Bilgehan</a> as prrofiles to inspire myself to create this page.
