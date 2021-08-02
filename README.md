@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### 👨🏻‍💻 &nbsp;About Me
+### 💁🏻‍♂️ &nbsp;About Me
 
 💡 &nbsp; I am interested in Tech & Science and studying new things fulfill my curiosity.\
 🤖 &nbsp; My main interest is Artificial Intelleence and Machine Learning and I love to teach things to bots :)\
@@ -22,7 +22,7 @@
 
 ---
 
-<img alt="Brain" src="https://giphy.com/embed/eljCVpMrhepUSgZaVP" align="right"/>
+<img alt="Robot" src="https://media.giphy.com/media/Zx0Ploq51axjKTZzgZ/giphy.gif" align="right" width=320/>
 
 ### 🛠 &nbsp; Tech & Tools
 
@@ -67,9 +67,9 @@
 ### 📇 &nbsp; Contacting Me
 
 <p align="center">
-<a href="https://www.github.io/pouyan9675"><img src="https://img.shields.io/badge/-github.io/pouyan9675-3423A6?style=flat&logo=safari"/></a>
-<a href="https://www.linkedin.com/in/pouyan-n-508a4586/"><img src="https://img.shields.io/badge/-pouyan--n--508a4586?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pouyan.nahed@unlv.edu"><img src="https://img.shields.io/badge/-pouyan.nahed@unlv.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/pouyan.na"><img src="https://img.shields.io/badge/-@pouyan.na-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/pouyan.nahed/"><img src="https://img.shields.io/badge/-@pouyan.nahed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.github.io/pouyan9675"><img src="https://img.shields.io/badge/-github.io/pouyan9675-333333?style=flat&logo=safari"/></a>
+<a href="https://www.linkedin.com/in/pouyan-n-508a4586/"><img src="https://img.shields.io/badge/-pouyan--n--508a4586-0e76a8?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pouyan.nahed@unlv.edu"><img src="https://img.shields.io/badge/-pouyan.nahed@unlv.edu-D44638?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/pouyan.na"><img src="https://img.shields.io/badge/-@pouyan.na-8a3ab9?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/pouyan.nahed/"><img src="https://img.shields.io/badge/-@pouyan.nahed-3b5998?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
