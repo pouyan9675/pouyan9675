@@ -22,7 +22,7 @@
 
 ---
 
-<img alt="Brain" src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif" align="right"/>
+<img alt="Brain" src="https://giphy.com/embed/eljCVpMrhepUSgZaVP" align="right"/>
 
 ### 🛠 &nbsp; Tech & Tools
 
