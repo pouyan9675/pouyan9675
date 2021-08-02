@@ -10,7 +10,7 @@
 📕 &nbsp; My research mainly involves Natural Language Processing and BioMedical.\
 📸 &nbsp; In my free timem, I pursue Photography especially night and urban photography.\
 💬 &nbsp; I enjoy discussing about science and fun things. Feel free to contact me.\
-💪🏻 &nbsp; Current Goal: Never stop learning and always eager to experience new things!\
+💪🏻 &nbsp; Current Goal: Never stop learning and eager to experience new things!
 
 ---
 
