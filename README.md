@@ -75,4 +75,4 @@
 </p>
 
 ### Reference
-I used <a href="https://github.com/AVS1508">Aditya</a> and <a href="https://github.com/Bgstatic">Bilgehan</a> as prrofiles to inspire myself to create this page.
+I used <a href="https://github.com/AVS1508">Aditya</a> and <a href="https://github.com/Bgstatic">Bilgehan</a> as profiles to inspire myself to create this page.
