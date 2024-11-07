@@ -14,7 +14,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="180px" width="180px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
 
 ### 🛠 &nbsp; Tech & Tools
 
@@ -63,7 +62,6 @@
 <a href="https://www.linkedin.com/in/pouyan-n-508a4586/"><img src="https://img.shields.io/badge/-pouyan--n--508a4586-0e76a8?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pouyan.nahed@unlv.edu"><img src="https://img.shields.io/badge/-pouyan.nahed@unlv.edu-D44638?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/pouyan.na"><img src="https://img.shields.io/badge/-@pouyan.na-8a3ab9?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/pouyan.nahed/"><img src="https://img.shields.io/badge/-@pouyan.nahed-3b5998?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ### Reference
