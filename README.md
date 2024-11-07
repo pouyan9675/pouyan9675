@@ -16,14 +16,6 @@
 
 <img align="right" alt="GIF" height="180px" width="180px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
 
-### 🎧 &nbsp; Spotify Now Playing
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/pouyan9675)
-
----
-
-<img alt="Robot" src="https://media.giphy.com/media/Zx0Ploq51axjKTZzgZ/giphy.gif" align="right" width=320/>
-
 ### 🛠 &nbsp; Tech & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
